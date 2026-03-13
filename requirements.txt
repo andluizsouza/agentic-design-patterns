@@ -1,0 +1,9 @@
+# This file lists the dependencies for the project
+
+# python tools
+python-dotenv>=1.0.0
+
+# Langchain libraries
+langchain
+langchain-community
+langchain-google-genai
