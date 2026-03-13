@@ -13,7 +13,7 @@ The core philosophy treats building these systems as working on a "technical can
 
 The following patterns represent the fundamental building blocks for constructing sophisticated agents.
 
-1.  **[Prompt Chaining](#prompt-chaining)**: Breaking complex tasks into linear sequences of discrete, manageable steps.
+1.  **[Prompt Chaining](/design_patterns/01_prompt_chaining/)**: Breaking complex tasks into linear sequences of discrete, manageable steps.
 2.  **[Routing](#routing)**: Using conditional logic to dynamically select the most appropriate path or tool based on input context.
 3.  **[Parallelization](#parallelization)**: Executing independent sub-tasks concurrently to optimize system efficiency and speed.
 4.  **[Reflection](#reflection)**: Implementing feedback loops where agents evaluate and refine their own work to improve quality.
