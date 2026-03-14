@@ -29,3 +29,6 @@ By decomposing the task, you gain **granular control**, making the system more r
 Frameworks such as **LangChain**, **LangGraph**, and the **Google Agent Development Kit (ADK)** provide the necessary abstractions to manage these multi-step sequences and stateful computations.
 
 ***
+
+
+![](./cartoon.png)
