@@ -3,7 +3,7 @@
 The following patterns represent the fundamental building blocks for constructing sophisticated agents.
 
 1.  **[Prompt Chaining](/design_patterns/prompt_chaining/)**: Breaking complex tasks into linear sequences of discrete, manageable steps.
-2.  **[Routing](#routing)**: Using conditional logic to dynamically select the most appropriate path or tool based on input context.
+2.  **[Routing](/design_patterns/routing/)**: Using conditional logic to dynamically select the most appropriate path or tool based on input context.
 3.  **[Parallelization](#parallelization)**: Executing independent sub-tasks concurrently to optimize system efficiency and speed.
 4.  **[Reflection](#reflection)**: Implementing feedback loops where agents evaluate and refine their own work to improve quality.
 5.  **[Tool Use (Function Calling)](#tool-use-function-calling)**: Enabling agents to interact with external APIs, databases, and services to perform real-world actions.
